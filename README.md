@@ -1,10 +1,10 @@
 # flow
 
-```
+```python
 Welcome to my github profile
 ```
 ### About me
-```
+```python
 I like working in python and C, hope you find useful some of my repos
 ```
 ### Statistics
