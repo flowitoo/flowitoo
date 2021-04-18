@@ -15,5 +15,5 @@ I like working in Python and C, hope you find something useful in my Repos
 
 ### Social Media
 
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCZBux-PKRgsdcld3GR7UYJg?color=9b59b6&label=Youtube&logo=elixir&logoColor=9b59b6&style=for-the-badge&url=https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg)
+![[Youtube](https://img.shields.io/youtube/channel/subscribers/UCZBux-PKRgsdcld3GR7UYJg?color=9b59b6&label=Youtube&logo=elixir&logoColor=9b59b6&style=for-the-badge)](https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg)
 ![Discord](https://img.shields.io/badge/Discord-flow%238040-9b59b6?style=for-the-badge&logo=elixir&color=9b59b6&logoColor=9b59b6)
