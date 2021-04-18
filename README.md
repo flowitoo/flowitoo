@@ -5,7 +5,7 @@ Welcome to my github profile
 ```
 ### About me
 ```python
-I like working in python and C, hope you find something useful in my repos
+I like working in Python and C, hope you find something useful in my repos
 ```
 ### Statistics
 ![Years Badge](https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits)
