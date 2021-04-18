@@ -1,7 +1,7 @@
 # flow
 
 ```python
-Welcome to my github profile
+Welcome to my Github profile
 ```
 ### About me
 ```python
