@@ -8,7 +8,7 @@ Welcome to my Github profile
 I like working in Python and C, hope you find something useful in my Repos
 ```
 ### Statistics
-![Years Badge](https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits)
+[![Years Badge](https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits)]()
 ![Repos Badge](https://badges.pufler.dev/repos/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6)
 ![Commits Badge](https://badges.pufler.dev/commits/all/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=commits)
 ![Stars](https://img.shields.io/github/stars/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge)
