@@ -10,7 +10,7 @@ I like working in Python and C, hope you find something useful in my Repos
 ```
 
 <p align="center">
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer noopener">
+  <a href="https://archlinux.org/" target="popup" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&" href="https://archlinux.org/" alt="Arch"/>
   </a>
 </p>
