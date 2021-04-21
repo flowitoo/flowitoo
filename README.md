@@ -20,9 +20,15 @@ I like working in Python and C, hope you find something useful in my Repos
 <p align="center">
   <a href="https://github.com/flowitoo">
     <img src="https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits" alt="Visits"/>
-    <img src="https://badges.pufler.dev/repos/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6" alt="Visits"/>
-    <img src="https://img.shields.io/github/stars/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge" alt="Visits"/>
-    <img src="https://img.shields.io/github/followers/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge" alt="Visits"/>
+    </a>
+    <a href="https://github.com/flowitoo">
+    <img src="https://badges.pufler.dev/repos/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6" alt="Repos"/>
+    </a>
+    <a href="https://github.com/flowitoo">
+    <img src="https://img.shields.io/github/stars/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge" alt="Stars"/>
+    </a>
+    <a href="https://github.com/flowitoo">
+    <img src="https://img.shields.io/github/followers/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge" alt="Followers"/>
   </a>
 </p>
 
