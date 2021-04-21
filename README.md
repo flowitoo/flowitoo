@@ -9,7 +9,9 @@ Welcome to my Github profile
 I like working in Python and C, hope you find something useful in my Repos
 ```
 
-[![Arch](https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&)](https://www.archlinux.org/)
+<p align="center">
+  <img src="https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&" alt="Arch"/>
+</p>
 
 
 ### Statistics
