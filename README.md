@@ -3,11 +3,13 @@
 ```python
 Welcome to my Github profile
 ```
-[![Arch](https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=for-the-badge&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&)](https://github.com/flowitoo)
+
 ### About me
 ```python
 I like working in Python and C, hope you find something useful in my Repos
 ```
+[![Arch](https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&)](https://www.archlinux.org/)
+
 ### Statistics
 [![Years Badge](https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits)](https://github.com/flowitoo)
 [![Repos Badge](https://badges.pufler.dev/repos/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6)](https://github.com/flowitoo)
