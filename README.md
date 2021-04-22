@@ -15,7 +15,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-  <h3>Statistics</h><br>
+  <h3>Statistics</h>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-  <h3>Social Media</h><br>
+  <h3>Social Media</h>
 </p>
 
 <p align="center">
