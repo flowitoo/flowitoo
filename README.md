@@ -14,8 +14,8 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
 </p>
 
-<p align="center">
-  <b style="font-size:18px;">Statistics</b>
+<p style="font-size:18px;" align="center">
+  <b>Statistics</b>
 </p>
 
 <p align="center">
