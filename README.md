@@ -14,9 +14,9 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
 </p>
 
-<p align="center">
-  Statistics
-</p>
+  <p align="center">
+    Statistics
+  </p>
 
 <p align="center">
   <a href="https://github.com/flowitoo">
