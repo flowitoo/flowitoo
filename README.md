@@ -15,7 +15,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-  <h3>Statistics</h>
+  <h3>Statistics</h><br>
   <a href="https://github.com/flowitoo">
       <img src="https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits" alt="Visits"/>
     </a>
@@ -30,9 +30,8 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
 </p>
 
-### Social Media
-
 <p align="center">
+<h3>Social Media</h><br>
   <a href="https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCZBux-PKRgsdcld3GR7UYJg?color=9b59b6&label=Youtube&logo=youtube&logoColor=9b59b6&style=for-the-badge" alt="Youtube"/>
     </a>
