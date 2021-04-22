@@ -58,6 +58,6 @@ I like working in Python and C, hope you find something useful in my Repos
       <img src="https://img.shields.io/badge/Telegram-@flooow1337-9b59b6?style=for-the-badge&logo=telegram&color=26A5E4&logoColor=26A5E4" alt="Telegram"/>
     </a>
     <a href="https://tryhackme.com/p/flowito">
-      <img src="https://img.shields.io/badge/TryHackMe-flowito-9b59b6?style=for-the-badge&logo=tryhackme&color=FC494A&logoColor=FC494A" alt="TryHackMe"/>
+      <img src="https://img.shields.io/badge/GitHub-flowitoo-181717?style=for-the-badge&logo=GitHub&color=181717&logoColor=181717" alt="TryHackMe"/>
     </a>
 </p>
