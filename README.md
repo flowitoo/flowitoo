@@ -33,9 +33,8 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
 </p>
 <p align="center">
-Social Media
+  <b>Social Media
 </p>
-------
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg">
