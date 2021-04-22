@@ -42,15 +42,15 @@ I like working in Python and C, hope you find something useful in my Repos
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCZBux-PKRgsdcld3GR7UYJg?color=9b59b6&label=Youtube&logo=youtube&logoColor=FF0000&style=for-the-badge" alt="Youtube"/>
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCZBux-PKRgsdcld3GR7UYJg?color=FF0000&label=Youtube&logo=youtube&logoColor=FF0000&style=for-the-badge" alt="Youtube"/>
     </a>
     <a href="http://discordapp.com/">
-      <img src="https://img.shields.io/badge/Discord-flow%238040-9b59b6?style=for-the-badge&logo=discord&color=9b59b6&logoColor=7289DA" alt="Discord"/>
+      <img src="https://img.shields.io/badge/Discord-flow%238040-9b59b6?style=for-the-badge&logo=discord&color=7289DA&logoColor=7289DA" alt="Discord"/>
     </a>
     <a href="https://t.me/flooow1337">
-      <img src="https://img.shields.io/badge/Telegram-@flooow1337-9b59b6?style=for-the-badge&logo=telegram&color=9b59b6&logoColor=9b59b6" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-@flooow1337-9b59b6?style=for-the-badge&logo=telegram&color=26A5E4&logoColor=26A5E4" alt="Telegram"/>
     </a>
     <a href="https://tryhackme.com/p/flowito">
-      <img src="https://img.shields.io/badge/TryHackMe-flowito-9b59b6?style=for-the-badge&logo=tryhackme&color=9b59b6&logoColor=FC494A" alt="TryHackMe"/>
+      <img src="https://img.shields.io/badge/TryHackMe-flowito-9b59b6?style=for-the-badge&logo=tryhackme&color=212C42&logoColor=212C42" alt="TryHackMe"/>
     </a>
 </p>
