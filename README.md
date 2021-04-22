@@ -16,7 +16,6 @@ Welcome to my Github profile
 
 ```python
 I like working in Python and C, hope you find something useful in my Repos
-
 ```
 
 <h2 align="center">
