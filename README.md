@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   flow
   <br>
   <a href="https://archlinux.org/">
