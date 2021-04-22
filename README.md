@@ -1,9 +1,10 @@
+<p align="center">
 # flow
 
 ```python
 Welcome to my Github profile
 ```
-
+</p>
 ### About me
 ```python
 I like working in Python and C, hope you find something useful in my Repos
