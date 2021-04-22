@@ -17,7 +17,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p style="font-size:40px;" align="center">
-  <b><font size="+1">Statistics</font></b>
+  <font size="+3"><b>Statistics</b></font>
 </p>
 
 <p align="center">
