@@ -1,10 +1,8 @@
-<p align="center">
 # flow
 
 ```python
 Welcome to my Github profile
 ```
-</p>
 ### About me
 ```python
 I like working in Python and C, hope you find something useful in my Repos
@@ -16,9 +14,8 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
 </p>
 
-
-### Statistics
 <p align="center">
+  <h3>Statistics</h>
   <a href="https://github.com/flowitoo">
       <img src="https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits" alt="Visits"/>
     </a>
