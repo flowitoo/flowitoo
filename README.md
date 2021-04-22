@@ -7,8 +7,6 @@
   <br>
 </h1>
 
-***
-
 ```python
 Welcome to my Github profile
 ```
