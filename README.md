@@ -33,11 +33,8 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
 </p>
 
-<p align="center">
-  <span style="font-family: 'Lucida Console';font-size: '20px'">dfgfdggdfgfd ide gas</span>
-  
-  Social Media
-</p>
+Social Media
+------
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg">
