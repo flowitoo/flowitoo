@@ -15,7 +15,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-  <b/>Statistics
+  <b>Statistics</b>
 </p>
 
 <p align="center">
