@@ -34,7 +34,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-  Social Media
+  <h3/>Social Media
 </p>
 
 <p align="center">
