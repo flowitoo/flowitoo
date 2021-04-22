@@ -3,7 +3,7 @@
   <br>
   <br>
   <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&" href="https://archlinux.org/" alt="Arch"/>
+    <img src="https://img.shields.io/badge/btw%20i%20use-arch-1793D1?style=flat&logo=arch%20linux&logoColor=1793D1" href="https://archlinux.org/" alt="Arch"/>
   </a>
   <br>
 </h3>
