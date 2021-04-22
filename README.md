@@ -1,9 +1,9 @@
 <h1 align="center">
   flow
+  <a href="https://archlinux.org/">
+    <img src="https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&" href="https://archlinux.org/" alt="Arch"/>
+  </a>
 </h1>
-<p align="center">
-  This is my README.md file.
-</p>
 
 ```python
 Welcome to my Github profile
@@ -15,12 +15,6 @@ Welcome to my Github profile
 ```python
 I like working in Python and C, hope you find something useful in my Repos
 ```
-
-<p align="center">
-  <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&" href="https://archlinux.org/" alt="Arch"/>
-  </a>
-</p>
 
 <h3 align="center">
   Statistics
