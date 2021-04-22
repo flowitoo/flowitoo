@@ -10,9 +10,9 @@
 ```python
 Welcome to my Github profile
 ```
-<h3 align="center">
+<h2 align="center">
   About me
-</h3>
+</h2>
 
 ```python
 I like working in Python and C, hope you find something useful in my Repos
