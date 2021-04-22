@@ -51,6 +51,6 @@ I like working in Python and C, hope you find something useful in my Repos
       <img src="https://img.shields.io/badge/Telegram-@flooow1337-9b59b6?style=for-the-badge&logo=telegram&color=26A5E4&logoColor=26A5E4" alt="Telegram"/>
     </a>
     <a href="https://tryhackme.com/p/flowito">
-      <img src="https://img.shields.io/badge/TryHackMe-flowito-9b59b6?style=for-the-badge&logo=tryhackme&color=212C42&logoColor=212C42" alt="TryHackMe"/>
+      <img src="https://img.shields.io/badge/TryHackMe-flowito-9b59b6?style=for-the-badge&logo=tryhackme&color=FC494A&logoColor=FC494A" alt="TryHackMe"/>
     </a>
 </p>
