@@ -34,6 +34,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
+  <span style="font-family: 'Lucida Console';">foo</span>
   Social Media
 </p>
 
