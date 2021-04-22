@@ -3,7 +3,9 @@
 ```python
 Welcome to my Github profile
 ```
-### About me
+<p align="center">
+About me
+</p>
 ```python
 I like working in Python and C, hope you find something useful in my Repos
 ```
@@ -15,7 +17,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-  <h3>Statistics</h>
+Statistics
 </p>
 
 <p align="center">
@@ -34,7 +36,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-  Social Media
+Social Media
 </p>
 
 <p align="center">
