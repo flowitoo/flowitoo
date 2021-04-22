@@ -1,11 +1,13 @@
-<h1 align="center">
+<h3 align="center">
   flow
   <br>
   <a href="https://archlinux.org/">
     <img src="https://img.shields.io/badge/btw%20i%20use-arch-9b59b6?style=flat&logo=arch%20linux&logoColor=9b59b6&color=9b59b6&" href="https://archlinux.org/" alt="Arch"/>
   </a>
   <br>
-</h1>
+</h3>
+
+***
 
 ```python
 Welcome to my Github profile
