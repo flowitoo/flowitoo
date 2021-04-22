@@ -10,17 +10,18 @@
 ```python
 Welcome to my Github profile
 ```
-<h2 align="center">
+
+<h3 align="center">
   About me
-</h2>
+</h3>
 
 ```python
 I like working in Python and C, hope you find something useful in my Repos
 ```
 
-<h2 align="center">
+<h3 align="center">
   Statistics
-</h2>
+</h3>
 
 <p align="center">
   <a href="https://github.com/flowitoo">
@@ -36,9 +37,10 @@ I like working in Python and C, hope you find something useful in my Repos
       <img src="https://img.shields.io/github/followers/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge" alt="Followers"/>
   </a>
 </p>
-<h2 align="center">
+
+<h3 align="center">
   Social media
-</h2>
+</h3>
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg">
