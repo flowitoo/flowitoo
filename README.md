@@ -5,7 +5,7 @@ Welcome to my Github profile
 ```
 
 <p align="center">
-About me
+  About me
 </p>
 
 ```python
@@ -19,7 +19,7 @@ I like working in Python and C, hope you find something useful in my Repos
 </p>
 
 <p align="center">
-Statistics
+  Statistics
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Statistics
 </p>
 
 <p align="center">
-Social Media
+  Social Media
 </p>
 
 <p align="center">
