@@ -32,8 +32,9 @@ I like working in Python and C, hope you find something useful in my Repos
       <img src="https://img.shields.io/github/followers/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge" alt="Followers"/>
   </a>
 </p>
-
+<p align="center">
 Social Media
+</p>
 ------
 
 <p align="center">
