@@ -19,6 +19,8 @@ Welcome to my Github profile
 I like working in Python and C, hope you find something useful in my Repos
 ```
 
+***
+
 <h3 align="center">
   Statistics
 </h3>
