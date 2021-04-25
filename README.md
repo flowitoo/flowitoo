@@ -32,13 +32,13 @@ I like working in Python and C, hope you find something useful in my Repos
   <a href="https://github.com/flowitoo">
       <img src="https://badges.pufler.dev/visits/flowitoo/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&label=profile+visits&cacheSeconds=3600" alt="Visits"/>
     </a>
-    <a href="https://github.com/flowitoo">
+    <a href="https://github.com/flowitoo?tab=repositories">
       <img src="https://badges.pufler.dev/repos/flowitoo?style=for-the-badge&logo=elixir&logoColor=9b59b6&color=9b59b6&cacheSeconds=3600" alt="Repos"/>
     </a>
     <a href="https://github.com/flowitoo">
       <img src="https://img.shields.io/github/stars/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
     </a>
-    <a href="https://github.com/flowitoo">
+    <a href="https://github.com/flowitoo?tab=followers">
       <img src="https://img.shields.io/github/followers/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge&cacheSeconds=3600" alt="Followers"/>
   </a>
 </p>
