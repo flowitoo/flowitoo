@@ -10,17 +10,25 @@
 
 ***
 
+<div align="center">
+
 ```python
 Welcome to my Github profile
 ```
+
+</div>
 
 <h3 align="center">
   About me
 </h3>
 
+<div align="center">
+
 ```python
 I like working in Python and C, hope you find something useful in my Repos
 ```
+
+</div>
 
 ***
 
