@@ -84,7 +84,13 @@ I like working in Python and C, hope you find something useful in my Repos
   <a href="https://github.com/flowitoo/creamHarrier">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
-  <a href="https://github.com/flowitoo/creamHarrier">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  <a href="https://github.com/zeenode/selfbot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenode&repo=selfbot&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+  <a href="https://github.com/flowitoo/token-checker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=token-checker&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+  <a href="https://github.com/flowitoo/hackthebox-invite-generator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=hackthebox-invite-generator&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
 </details>
