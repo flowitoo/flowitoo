@@ -50,10 +50,13 @@ I like working in Python and C, hope you find something useful in my Repos
       <img src="https://img.shields.io/github/followers/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge&cacheSeconds=3600" alt="Followers"/>
   </a>
   <br>
-  <a href="https://github.com/flowitoo">
-      <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=radical&cache_seconds=1800&line_height=27" alt="Stats Card"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowitoo&theme=radical&cache_seconds=1800" alt="Top Langs"/>
-  </a> 
+  <details align="center">
+    <summary>Cards</summary>
+    <a href="https://github.com/flowitoo">
+        <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=radical&cache_seconds=1800&line_height=27" alt="Stats Card"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowitoo&theme=radical&cache_seconds=1800" alt="Top Langs"/>
+    </a> 
+  </details>
 </p>
 
 <h3 align="center">
