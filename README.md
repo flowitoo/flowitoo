@@ -79,8 +79,7 @@ I like working in Python and C, hope you find something useful in my Repos
   Favorite Repositories
 </h3>
 
-<details>
-  <summary>Repos</summary>
+<details align="center">
   <a href="https://github.com/flowitoo/creamHarrier">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
