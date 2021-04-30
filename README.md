@@ -74,3 +74,8 @@ I like working in Python and C, hope you find something useful in my Repos
       <img src="https://img.shields.io/badge/GitHub-flowitoo-181717?style=for-the-badge&logo=GitHub&color=181717&logoColor=181717&cacheSeconds=3600" alt="GitHub"/>
     </a>
 </p>
+
+Markup : <details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
