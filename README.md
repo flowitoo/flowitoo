@@ -49,6 +49,11 @@ I like working in Python and C, hope you find something useful in my Repos
     <a href="https://github.com/flowitoo?tab=followers">
       <img src="https://img.shields.io/github/followers/flowitoo?color=9b59b6&logo=elixir&logoColor=9b59b6&style=for-the-badge&cacheSeconds=3600" alt="Followers"/>
   </a>
+  
+  
+  <a href="https://github.com/flowitoo">
+      <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=radical" alt="Stats card"/>
+  </a> 
 </p>
 
 <h3 align="center">
