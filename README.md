@@ -51,7 +51,8 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
   <br>
   <a href="https://github.com/flowitoo">
-      <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=radical&cache_seconds=1800" alt="Stats card"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=radical&cache_seconds=1800" alt="Stats Card"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowitoo&theme=radical&cache_seconds=1800" alt="Top Langs"/>
   </a> 
 </p>
 
