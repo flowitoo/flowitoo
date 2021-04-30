@@ -53,8 +53,8 @@ I like working in Python and C, hope you find something useful in my Repos
   <details align="center">
     <summary>Profile cards</summary>
     <a href="https://github.com/flowitoo">
-        <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=midnight-purple&cache_seconds=1800&line_height=27" alt="Stats Card"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowitoo&theme=midnight-purple&cache_seconds=1800" alt="Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=radical&cache_seconds=1800&line_height=27" alt="Stats Card"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowitoo&theme=radical&cache_seconds=1800" alt="Top Langs"/>
     </a> 
   </details>
 </p>
@@ -62,16 +62,16 @@ I like working in Python and C, hope you find something useful in my Repos
 <details align="center">
   <summary>Favorite repositories</summary>
   <a href="https://github.com/flowitoo/creamHarrier">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=midnight-purple&cache_seconds=1800" alt="creamHarrier"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
   <a href="https://github.com/zeenode/selfbot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenode&repo=selfbot&theme=midnight-purple&cache_seconds=1800" alt="creamHarrier"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenode&repo=selfbot&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
   <a href="https://github.com/flowitoo/token-checker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=token-checker&theme=midnight-purple&cache_seconds=1800" alt="creamHarrier"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=token-checker&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
   <a href="https://github.com/flowitoo/hackthebox-invite-generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=hackthebox-invite-generator&theme=midnight-purple&cache_seconds=1800" alt="creamHarrier"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=hackthebox-invite-generator&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
 </details>
 
