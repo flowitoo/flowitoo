@@ -75,7 +75,16 @@ I like working in Python and C, hope you find something useful in my Repos
     </a>
 </p>
 
-Markup : <details>
-           <summary>Title 1</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-         </details>
+<h3 align="center">
+  Favorite Repositories
+</h3>
+
+<details>
+  <summary>Repos</summary>
+  <a href="https://github.com/flowitoo/creamHarrier">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+  <a href="https://github.com/flowitoo/creamHarrier">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+</details>
