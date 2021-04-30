@@ -51,13 +51,29 @@ I like working in Python and C, hope you find something useful in my Repos
   </a>
   <br>
   <details align="center">
-    <summary>Cards</summary>
+    <summary>Profile cards</summary>
     <a href="https://github.com/flowitoo">
         <img src="https://github-readme-stats.vercel.app/api?username=flowitoo&show_icons=true&theme=radical&cache_seconds=1800&line_height=27" alt="Stats Card"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowitoo&theme=radical&cache_seconds=1800" alt="Top Langs"/>
     </a> 
   </details>
 </p>
+
+<details align="center">
+  <summary>Favorite repositories</summary>
+  <a href="https://github.com/flowitoo/creamHarrier">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+  <a href="https://github.com/zeenode/selfbot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenode&repo=selfbot&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+  <a href="https://github.com/flowitoo/token-checker">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=token-checker&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+  <a href="https://github.com/flowitoo/hackthebox-invite-generator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=hackthebox-invite-generator&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
+  </a>
+</details>
 
 <h3 align="center">
   Social media
@@ -77,23 +93,3 @@ I like working in Python and C, hope you find something useful in my Repos
       <img src="https://img.shields.io/badge/GitHub-flowitoo-181717?style=for-the-badge&logo=GitHub&color=181717&logoColor=181717&cacheSeconds=3600" alt="GitHub"/>
     </a>
 </p>
-
-<h3 align="center">
-  Favorite Repositories
-</h3>
-
-<details align="center">
-  <summary></summary>
-  <a href="https://github.com/flowitoo/creamHarrier">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=creamHarrier&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
-  </a>
-  <a href="https://github.com/zeenode/selfbot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeenode&repo=selfbot&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
-  </a>
-  <a href="https://github.com/flowitoo/token-checker">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=token-checker&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
-  </a>
-  <a href="https://github.com/flowitoo/hackthebox-invite-generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=hackthebox-invite-generator&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
-  </a>
-</details>
