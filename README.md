@@ -83,12 +83,6 @@ I like working in Python and C, hope you find something useful in my Repos
     <a href="https://www.youtube.com/channel/UCZBux-PKRgsdcld3GR7UYJg">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCZBux-PKRgsdcld3GR7UYJg?color=FF0000&label=Youtube&logo=youtube&logoColor=FF0000&style=for-the-badge&cacheSeconds=3600" alt="Youtube"/>
     </a>
-    <a href="http://discordapp.com/">
-      <img src="https://img.shields.io/badge/Discord-flow%238040-9b59b6?style=for-the-badge&logo=discord&color=7289DA&logoColor=7289DA&cacheSeconds=3600" alt="Discord"/>
-    </a>
-    <a href="https://t.me/flooow1337">
-      <img src="https://img.shields.io/badge/Telegram-@flooow1337-9b59b6?style=for-the-badge&logo=telegram&color=26A5E4&logoColor=26A5E4&cacheSeconds=3600" alt="Telegram"/>
-    </a>
     <a href="https://github.com/flowitoo">
       <img src="https://img.shields.io/badge/GitHub-flowitoo-181717?style=for-the-badge&logo=GitHub&color=181717&logoColor=181717&cacheSeconds=3600" alt="GitHub"/>
     </a>
