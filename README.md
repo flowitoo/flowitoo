@@ -73,6 +73,9 @@ I like working in Python and C, hope you find something useful in my Repos
   <a href="https://github.com/flowitoo/hackthebox-invite-generator">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=hackthebox-invite-generator&theme=radical&cache_seconds=1800" alt="creamHarrier"/>
   </a>
+  <a href="https://github.com/flowitoo/discord-anti-raid">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flowitoo&repo=discord-anti-raid&theme=radical&cache_seconds=1800" alt="discord-anti-raid"/>
+  </a>
 </details>
 
 <h3 align="center">
